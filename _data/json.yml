@@ -1,22 +1,19 @@
 - key: Name
   value: arthur
 - key: Type
-  value: personal projects
+  value: Portifolio
 - key: Description
   value:
     - Welcome!
-    - Bem vindo!
-    - Bienvindo!
+    - Here are some of my personal projects
+    - Feel free to visit them!
   typed: true
-- key: CV
-  value: cv.pdf
-  url: /cv.pdf
 - key: Projects
   value:
     - key: etl-practice
       value: spotify api etl pipeline
       url: https://github.com/arthur-6/etl-practice
-- key: Profiles
+- key: Contact
   value:
     - value: LinkedIn
       url: https://www.linkedin.com/in/arthur-vinicius/
